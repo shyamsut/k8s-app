@@ -114,7 +114,7 @@ Open in browser:
 
 
 http://<minikube-ip>:30007
-
+https://github.com/shyamsut/k8s-app/blob/main/output.png
 
 7️⃣ Scale the Application
 
@@ -139,4 +139,5 @@ Using kubectl for debugging
 
 📌 Author
 Shyam Suthar
+
 
