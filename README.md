@@ -104,7 +104,7 @@ kubectl apply -f service.yaml
 kubectl get pods
 kubectl get svc
 kubectl get all 
-"C:\Users\pjgeh\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 190513.png"
+https://github.com/shyamsut/k8s-app/blob/main/deploy-service-scale.png
 
 
 6️⃣ Access the Application
@@ -114,13 +114,13 @@ Open in browser:
 
 
 http://<minikube-ip>:30007
-📸 Screenshot Example:
+
 
 7️⃣ Scale the Application
 
 kubectl scale deployment app-deployment --replicas=4
 kubectl get pods
-📸 Screenshot Example:
+
 
 8️⃣ Debugging & Logs
 
@@ -139,3 +139,4 @@ Using kubectl for debugging
 
 📌 Author
 Shyam Suthar
+
